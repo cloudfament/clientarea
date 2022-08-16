@@ -1,7 +1,7 @@
 # WHMCS
 
 {% hint style="info" %}
-此版本为直接跳转至网关模式
+此版本为直接跳转至网关模式。
 {% endhint %}
 
 {% file src="../.gitbook/assets/whmcs.zip" %}

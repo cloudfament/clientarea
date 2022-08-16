@@ -25,7 +25,7 @@ $_ENV['payfament']=[
 ];
 ```
 
-在cool\_config.php支付中将支付宝和微信支付设置为payfament
+在cool\_config.php支付中将支付宝和微信支付设置为`payfament`
 
 代码如下
 
