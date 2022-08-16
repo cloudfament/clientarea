@@ -1,6 +1,6 @@
 # Table of contents
 
-* [😇 对接文档](README.md)
+* [😇 Pay Fament介绍](README.md)
 
 ## 🖥 SDK
 
