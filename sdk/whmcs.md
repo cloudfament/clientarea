@@ -1,3 +1,7 @@
+---
+layout: landing
+---
+
 # WHMCS
 
 {% hint style="info" %}
