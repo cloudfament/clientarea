@@ -1,9 +1,10 @@
 # Table of contents
 
-* [😇 Pay Fament介绍](README.md)
+* [😇 对接文档](README.md)
 
 ## 🖥 SDK
 
+* [☁ 开始阅读](sdk/kai-shi-yue-du.md)
 * [WHMCS](sdk/whmcs.md)
 * [SSPanel - OLD](sdk/sspanel-old.md)
 * [SSPanel - UIM](sdk/sspanel-uim.md)
