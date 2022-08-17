@@ -30,3 +30,7 @@
 * [\[API\]查询结算记录](api/api-cha-xun-jie-suan-ji-lu.md)
 * [\[API\]查询单个订单](api/api-cha-xun-dan-ge-ding-dan.md)
 * [\[API\]批量查询订单](api/api-pi-liang-cha-xun-ding-dan.md)
+
+***
+
+* [🕹 新商户入驻](xin-shang-hu-ru-zhu.md)

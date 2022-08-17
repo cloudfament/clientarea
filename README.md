@@ -1,6 +1,5 @@
 ---
 description: Tg群组：@clouderpay / Tg客服：@yunxiaoduo
-layout: landing
 ---
 
 # 😇 Wiki
