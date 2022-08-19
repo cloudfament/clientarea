@@ -1,5 +1,5 @@
 ---
-description: Tg群组：@clouderpay / Tg客服：@yunxiaoduo
+description: Tg群组：@clouderpays / Tg客服：@yunxiaoduo
 ---
 
 # 😇 Wiki
