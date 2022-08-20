@@ -9,10 +9,12 @@
 * [WHMCS](sdk/whmcs.md)
 * [SSPanel - OLD](sdk/sspanel-old.md)
 * [SSPanel - UIM](sdk/sspanel-uim.md)
+* [SSPanel - Metron](sdk/sspanel-metron.md)
 * [SSPanel - Malio](sdk/sspanel-malio.md)
 * [SSPanel - Malio OLD](sdk/sspanel-malio-old.md)
 * [SSPanel - Cool](sdk/sspanel-cool.md)
 * [V2Board](sdk/v2board.md)
+* [独角数卡](sdk/du-jiao-shu-ka.md)
 * [PHP](sdk/php.md)
 * [WooCommerce](sdk/woocommerce.md)
 
