@@ -1,7 +1,6 @@
 # Table of contents
 
-* [😇 Wiki](README.md)
-* [☁ 文档中心](wen-dang-zhong-xin.md)
+* [Pay Fament](README.md)
 
 ## 🖥 SDK
 

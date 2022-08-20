@@ -1,11 +1,7 @@
----
-description: Tg群组：@clouderpays / Tg客服：@yunxiaoduo
----
+# Pay Fament
 
-# 😇 Wiki
+香港国宝级支付
 
-![强大，永无止境。](.gitbook/assets/微信图片\_20220817004402.jpg)
+[加入 Telegram 电报群](https://t.me/clouderpays)
 
-{% hint style="success" %}
-点击下方👇“文档中心”，来阅读我们的对接文档。
-{% endhint %}
+[登入商户中心](https://dash.cloudfament.co)
