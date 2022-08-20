@@ -15,7 +15,8 @@
 * [SSPanel - Cool](sdk/sspanel-cool.md)
 * [V2Board](sdk/v2board.md)
 * [VNetPanel](sdk/vnetpanel.md)
-* [独角数卡](sdk/du-jiao-shu-ka.md)
+* [风铃-发卡系统](sdk/feng-ling-fa-ka-xi-tong.md)
+* [独角数卡-发卡系统](sdk/du-jiao-shu-ka-fa-ka-xi-tong.md)
 * [PHP](sdk/php.md)
 * [WooCommerce](sdk/woocommerce.md)
 
