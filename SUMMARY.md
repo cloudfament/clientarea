@@ -4,7 +4,6 @@
 
 ## 🖥 SDK
 
-* [目录](sdk/mu-lu.md)
 * [WHMCS](sdk/whmcs.md)
 * [SSPanel - OLD](sdk/sspanel-old.md)
 * [SSPanel - UIM](sdk/sspanel-uim.md)
