@@ -4,7 +4,7 @@ description: SSPanel - Metron 对接教程
 
 # SSPanel - Metron
 
-{% file src="../.gitbook/assets/SSPanel-metron-payfament (1).zip" %}
+{% file src="../.gitbook/assets/SSPanel-metron-payfament.zip" %}
 
 1、把压缩包里的文件上传至网站根目录
 
@@ -13,7 +13,7 @@ description: SSPanel - Metron 对接教程
 在 `config/config.php` 添加
 
 ```
-$_ENV['xiyunPay']=[
+$_ENV['payfament']=[
     'partner' => "xxx", //商户号 （xxx代表需要手动填写的信息）
     'key' => "xxx", //商户key（xxx代表需要手动填写的信息）
     'apiurl' => "https://fps.cloudfament.co", 
