@@ -14,6 +14,7 @@
 * [SSPanel - Malio OLD](sdk/sspanel-malio-old.md)
 * [SSPanel - Cool](sdk/sspanel-cool.md)
 * [V2Board](sdk/v2board.md)
+* [VNetPanel](sdk/vnetpanel.md)
 * [独角数卡](sdk/du-jiao-shu-ka.md)
 * [PHP](sdk/php.md)
 * [WooCommerce](sdk/woocommerce.md)
